@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tA1OGJOUnwMHeBQoOJTEkZQL8d6rA9TpMrTFhD2cAucFIh5F8JFRa+wNzUiBPJ0vXVVgD3XkdrSV7Y6Ka9kUiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roose\\Projetos\\GameOfLife\\GameOfLife.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roose\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
