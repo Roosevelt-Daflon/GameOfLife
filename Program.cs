@@ -12,7 +12,7 @@ namespace GameOfLife
             
             Raylib.InitWindow(800, 800, "Game of Life ");
             Raylib.SetTargetFPS(60);
-            Game.start(400,400, Thread.CurrentThread);
+            Game.start(800, 800, Thread.CurrentThread);
             int pixelWidth = Raylib.GetScreenWidth() / Game.map.GetLength(0), pixelHeight = Raylib.GetScreenHeight() / Game.map.GetLength(1);
 
             while (!Raylib.WindowShouldClose())
