@@ -5,4 +5,4 @@
  
  Click esquerdo para adicionar novas células caso a aplicação esteja pausado;
  
- Click esquerdo para deletar células caso a aplicação esteja pausado;
+ Click direito para deletar células caso a aplicação esteja pausado;
