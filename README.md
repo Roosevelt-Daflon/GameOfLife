@@ -1,5 +1,5 @@
 # GameOfLife
- Implementação do algorítimo jogo da vida com multithreadin
+ Implementação do algorítimo jogo da vida com multithreading
  
  Espaço para pausar a plicação;
  
